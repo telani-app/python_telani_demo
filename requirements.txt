@@ -6,3 +6,4 @@ plotly~=5.14.1
 qrcode~=7.4.2
 jsonschema~=4.17.3
 pillow~=10.0.0
+sentence-transformers~=5.2.1
